@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Getting Started with React",
+        "author": "Sunayana",
+        "date": "jan 3, 2026",
+        "shortDescription": "React is a popular JavaScript library.",
+        "content": "React is all about components. A component is a small piece of UI that can be reused throughout your application. In this blog, we will learn how to create your first React component and manage state using hooks like useState. React's virtual DOM makes it efficient and fast.",
+        "image": "/images/pic.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "Why I Love Flask",
+        "author": "Pavan",
+        "date": "jan 3, 2026",
+        "shortDescription": "Flask is a lightweight Python web framework.",
+        "content": "Flask is known for its simplicity. Unlike Django, it doesn't come with everything built-in, which gives developers more control over their stack. It's perfect for small projects and microservices. Setting up a route is as easy as adding a decorator to a Python function.",
+        "image": "/images/pic.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "The Beauty of CSS Flexbox",
+        "author": "Sunayana",
+        "date": "jan 3, 2026",
+        "shortDescription": "Mastering layout with Flexbox is a must for every developer.",
+        "content": "Before Flexbox, centering a div was a nightmare. Now, with just a few lines of CSS, you can create complex, responsive layouts. Properties like justify-content and align-items make it incredibly easy to manage space between items in a container.",
+        "image": "/images/pic.jpeg"
+    }
+]
